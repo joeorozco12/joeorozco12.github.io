@@ -4,6 +4,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="100" height="40">
 <img src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.png?raw=true" width="100" height="40">
 <img src="https://matplotlib.org/3.2.2/_static/logo2_compressed.svg" width="100" height="40">
+![GitHub-Mark-32px](https://user-images.githubusercontent.com/49802270/125731191-5d0b0405-05da-40bd-b6cd-cde9a0f294ae.png)
+
+All Project Files are located in my [GitHub Repository](https://github.com/joeorozco12/joeorozco12.github.io)
 
 # Plotting Static Figures
 
